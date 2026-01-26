@@ -1,0 +1,5 @@
+user_name=input("Enter your name ")
+user_age=input("Enter your age ")
+user_location=input("Where do you live ??")
+user_lucky_number=input("Enter your lucky number ")
+print("HEllo ", user_name , " !! you are ", user_age, " years old." , "you live in ",user_location, "and your lucky number is ",user_lucky_number )
