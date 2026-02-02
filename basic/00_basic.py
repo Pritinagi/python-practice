@@ -11,3 +11,6 @@ print("sep already predefined in the documentation for sepration it seprates the
 print("if i want"," the sepration to be with slashes ","and not gape then ","change sep value " , sep="/")
 
 print("there is one more 'end=/n' so whenerver a new print function is called it is directly moved to the new line  ")
+
+
+print("your learning path \n - \t python basics \n - \t data engineering \n - \t ai  ")
