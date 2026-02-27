@@ -21,3 +21,9 @@ folder ="c:/users/priti/"
 file = "report.csv"
 full_file_path =folder + file
 print(full_file_path)
+
+
+# f_String
+name="priti"
+age=13
+print(f"my name is {name} . i am {age} years old")
