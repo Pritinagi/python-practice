@@ -1,0 +1,16 @@
+# transformations
+
+# replace
+price ='1234,56'
+print(price.replace(",","."))
+print(price.replace(",",""))
+pri= "$1,299.99"
+print(pri.replace("$",""))
+print(pri.replace("$","").replace(",",""))
+
+# concatination
+first_name="Priti"
+last_name="Nagi"
+
+full_name=first_name+ " " +last_name
+print(full_name)
