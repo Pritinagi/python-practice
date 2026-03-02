@@ -27,3 +27,5 @@ print(full_file_path)
 name="priti"
 age=13
 print(f"my name is {name} . i am {age} years old")
+print(f"2+3 = {2+3}")
+print(f"{{this is me}}")
