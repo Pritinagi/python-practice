@@ -7,7 +7,6 @@ This repository is intended to demonstrate my Python fundamentals, which are ess
 
 ---
 
-
 ## 📌 Key Features
 - Clean and beginner-friendly Python code  
 - Logical folder structure for easy navigation  
@@ -16,6 +15,23 @@ This repository is intended to demonstrate my Python fundamentals, which are ess
 - Suitable for technical reviews and recruiter evaluation  
 
 ---
+## 🗂️ What's Inside
+| Folder | Topics Covered | Example Files |
+|--------|---------------|---------------|
+| `basic/` | Variables, loops, input/output | `hello.py`, `calculator.py` |
+| `string/` | String methods, slicing, formatting | `reverse_string.py` |
+| `function/` | Defining functions, parameters, return | `area_calculator.py` |
+| `challenges/` | Small problem-solving exercises | `fizzbuzz.py`, `palindrome_check.py` |
+
+## 🚀 My Learning Journey
+- ✅ Completed: Python syntax, data types, functions
+- 🔄 Currently practicing: File handling, error handling
+- 🎯 Next up: Working with APIs, basic OOP
+
+## 💻 How to Run a File
+```bash
+cd string
+python reverse_string.py
 
 ## 💡 How to Use
 
