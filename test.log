@@ -1,0 +1,18 @@
+DEBUG:root:add: 10 + 5 = 15
+DEBUG:root:sub: 10 + 5 = 5
+DEBUG:root:mul: 10 + 5 = 50
+DEBUG:root:div: 10 + 5 = 2.0
+DEBUG:root:add: 10 + 5 = 15
+DEBUG:root:sub: 10 + 5 = 5
+DEBUG:root:mul: 10 + 5 = 50
+DEBUG:root:div: 10 + 5 = 2.0
+DEBUG:root:add: 20 + 19 = 39
+DEBUG:root:sub: 20 + 19 = 1
+DEBUG:root:mul: 20 + 19 = 380
+DEBUG:root:div: 20 + 19 = 1.0526315789473684
+2026-07-09 16:49:35,536 : DEBUG : add: 20 + 19 = 39
+2026-07-09 16:49:35,537 : DEBUG : sub: 20 + 19 = 1
+2026-07-09 16:49:35,537 : DEBUG : mul: 20 + 19 = 380
+2026-07-09 16:49:35,537 : DEBUG : div: 20 + 19 = 1.0526315789473684
+ INFO : created employee : john,smith - john.smith@email.com
+ INFO : created employee : corey,schafer - corey.schafer@email.com
