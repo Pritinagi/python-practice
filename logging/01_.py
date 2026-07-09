@@ -1,9 +1,7 @@
 import logging
 
 # to use debug and info write this line 
-
 # logging.basicConfig(level=logging.DEBUG)
-
 # create logging file
 # logging.basicConfig(filename='test.log', level=logging.DEBUG)
 
@@ -11,8 +9,8 @@ import logging
 
 # format 
 logging.basicConfig(
-    filename='test.log', level=logging.DEBUG,
-    format='%(asctime)s : %(levelname)s : %(message)s' 
+    filename='sample.log', level=logging.DEBUG,
+    format='%(asctime)s : %(name)s : %(message)s' 
                     )
 
 

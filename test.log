@@ -16,3 +16,5 @@ DEBUG:root:div: 20 + 19 = 1.0526315789473684
 2026-07-09 16:49:35,537 : DEBUG : div: 20 + 19 = 1.0526315789473684
  INFO : created employee : john,smith - john.smith@email.com
  INFO : created employee : corey,schafer - corey.schafer@email.com
+ INFO : created employee : john,smith - john.smith@email.com
+ INFO : created employee : corey,schafer - corey.schafer@email.com
