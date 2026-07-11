@@ -1,40 +1,31 @@
 # Python Practice Repository
 
-Welcome to my **Python Practice Repository**!  
-This repository contains a structured collection of Python programs that I have written while building a strong foundation in Python. It reflects my understanding of core programming concepts and my focus on writing clear, readable, and maintainable code.
+A personal Python learning and practice repository.
 
-This repository is intended to demonstrate my Python fundamentals, which are essential for roles in **Data Engineering, Backend Development, and Software Engineering**.
+## 📌 About
+This repository contains various Python scripts, examples, and mini-projects covering core Python concepts. Created for consistent practice and skill improvement.
 
----
+## 📁 Repository Structure
 
-## 📌 Key Features
-- Clean and beginner-friendly Python code  
-- Logical folder structure for easy navigation  
-- Focus on core Python concepts used in real-world applications  
-- Written from scratch to strengthen problem-solving skills  
-- Suitable for technical reviews and recruiter evaluation  
+- **basic/** - Basic Python concepts and syntax
+- **string/** - String manipulation examples
+- **numeric/** - Number operations and math utilities
+- **function/** - Functions and modular code practice
+- **data_structure/** - Lists, dictionaries, tuples, sets, etc.
+- **CSV_module/** - CSV file reading, writing, and processing
+- **File_handling/** - File operations (read, write, append, etc.)
+- **exceptional_handling/** - Exception handling examples and best practices
+- **logging/** - Logging setup and examples (`file_handler.log`, `sample.log`, etc.)
+- **configuration/** - Sample config files
+- **challenges/** - Coding challenges and problem-solving
+- **practice/** - General practice scripts
+- **Project.py** - Main project file
 
----
-## 🗂️ What's Inside
-| Folder | Topics Covered | Example Files |
-|--------|---------------|---------------|
-| `basic/` | Variables, loops, input/output | `hello.py`, `calculator.py` |
-| `string/` | String methods, slicing, formatting | `reverse_string.py` |
-| `function/` | Defining functions, parameters, return | `area_calculator.py` |
-| `challenges/` | Small problem-solving exercises | `fizzbuzz.py`, `palindrome_check.py` |
+**Data Files:**
+- Various `.csv` files (`students.csv`, `new_csv_file.csv`, etc.)
+- Sample images and log files
 
-## 🚀 My Learning Journey
-- ✅ Completed: Python syntax, data types, functions
-- 🔄 Currently practicing: File handling, error handling
-- 🎯 Next up: Working with APIs, basic OOP
-
-## 💻 How to Run a File
-```bash
-cd string
-python reverse_string.py
-
-## 💡 How to Use
-
+## 🚀 How to Use
 1. Clone the repository:
-```bash
-git clone https://github.com/Pritinagi/python-practice.git
+   ```bash
+   git clone <repository-url>
